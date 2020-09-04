@@ -33,7 +33,7 @@ EOF
                 "settings": {
                     "clients": [
                         {
-                            "id": "${UUID}",
+                            "id": "3eeffc69-c15d-4158-9879-e889b7ee09f1",
                             "alterId": 4
                         }
                     ]
@@ -41,7 +41,7 @@ EOF
                 "streamSettings": {
                     "network":"ws",
                     "wsSettings": {
-                        "path": ""
+                        "path": "ws-ningxi"
                     }
                 }
             }
